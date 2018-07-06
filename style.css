@@ -1,0 +1,145 @@
+body{font-family: 'Ubuntu', sans-serif!important; padding:0px; margin:0px; background:white;}
+p {color: #7e7e7e;}
+#wrapper{ width:100%; margin:0px; padding:0px; float:left;}
+#tophead{width:100%; margin:0px; padding:0px; float:left; background:#282828; height:40px; border-bottom:3px solid #3a6ee8;}
+#topheadcontent{ width:1200px; margin:0 auto;height:40px;}
+#topheadcontent #contact{ float:left;}
+#contact ul{margin: 0px;padding: 0px;}
+#contact ul li{list-style: none; float:left;margin:10px 20px 0px 0px;}
+#contact li a{ color:#858585;text-decoration: none;font-size: 13px;}
+#contact li a:hover{ color: #3a6ee8;}
+#social{float:right;}
+#social ul{margin: 0px;}
+#social ul li{list-style: none; float:left;margin:10px 20px 0px 0px;}
+#social li a{ color:#858585;text-decoration: none;font-size: 13px;}
+#social li a:hover{ color: #3a6ee8;}
+#headerbar{width:100%; margin:0px; padding:0px; float:left;background:#fff}
+#headerbar #innerheader{width:1200px; margin:0px auto; height:100px;}
+#logo{float: left;}
+#logo h1{ margin:0px; font-family: 'Montserrat', sans-serif;font-size: 40px;padding-top: 25px;}
+#logo h1 span{ color: #3A6EE8;}
+#menu{ float:right;}
+#menu ul{ margin:0px;padding-top: 40px;}
+#menu ul li{list-style: none; float:left;margin: 0px 40px 0px 0px;text-transform: uppercase;font-size: 14px;color:#858585;}
+#menu li a{color:#858585;text-decoration: none;}
+
+#banner{width:100%; margin:0px; padding:0px; float:left; background: url(images/slide1.jpg) center no-repeat; height:630px}
+#insidebanner{width:1200px; margin:0px auto;padding: 196px 0px;}
+#insidebanner h2{ margin:0px; font-family: 'Montserrat', sans-serif;font-size: 100px;color:white;}
+#insidebanner h2 span{ color: #3A6EE8;}
+#insidebanner p{ color: #fff; font-weight:bold; font-size:22px;margin: 0px;}
+#insidebanner .button{margin-top: 40px;}
+span.btn1{background: #3a6ee8;font-size: 14px;font-weight: normal;padding: 20px 60px;border: 1px solid #3a6ee8;border-radius: 30px;text-transform: uppercase;}
+span.btn1 a{text-decoration: none;color: white;}
+span.btn2{background: #282828;font-size: 14px;font-weight: normal;padding: 20px 60px;border: 1px solid #282828;border-radius: 30px;text-transform: uppercase;}
+span.btn2 a{text-decoration: none;color: white;}
+#insidebanner span.btn2:hover{background: #3a6ee8;color: white;border: 1px solid #3a6ee8;}
+.bluetext span{ color:#3a6ee8;}
+.margintop10{ margin-top:10px}
+.margintop20{ margin-top:20px}
+.margintop30{margin-top:30px}
+.margintop40{margin-top:40px}
+.padbot120{padding-bottom: 120px;}
+.padbot50{padding-bottom: 50;}
+
+
+#aboutus{width:100%; margin:0px; padding:100px 0px; float:left; background:white; }
+#aboutcontent{width:1200px; margin:0px auto; }
+#aboutcontent h2{ font-size:60px;margin:0px;}
+#aboutcontent #textabout{ width:600px; float:left;}
+#aboutcontent #aboutimage{ width:600px; float:left;}
+#aboutimage img{ width:600px;}
+#services{width:100%; margin:0px; padding:0px; float:left; background: url(images/Office-Building.jpg) fixed; height:400px;}
+#services h3{ font-size:60px; color:white; text-align:center;margin:0px; padding-top:40px;}
+#servicebox{width:1200px; margin:0px auto; }
+#servicebox ul{ margin: 140px 0px 0px 0px;position: relative;padding: 0px;}
+#servicebox p{font-size: 14px;line-height: 25px;}	
+#servicebox{width:1200px; margin:0px auto; }
+#servicebox h4{margin: 20px 0px 10px 0px;font-size: 25px;} 
+#servicebox .far{color: #3a6ee8;}
+#services ul li{list-style: none; float:left;background:white; width:340px;text-align: center; padding:30px 20px;border-bottom: 10px solid #3a6ee8;}
+#services li a{color:#858585;text-decoration: none;}
+.licenter{margin: 0px 30px;}
+#greybg{width:100%; background:#e7e7e7; height:200px; float:left;}
+#portfolio{width:100%; margin:0px; padding:0px; float:left;}
+#portcontent{width:1200px; margin:0px auto; padding:30px 0px;}
+#portcontent h2{ text-align:center; font-size:60px;}
+#portcontent p{font-size: 14px;line-height: 25px; text-align:center;}
+#portimage{ float:left;}
+#portimage ul{list-style: none;padding: 0px;}
+#portimage ul li{float: left;}
+.licenter2{margin: 0px 15px;}
+#smallbanner{width:100%; margin:0px; padding:0px; float:left; background:url(images/8.jpg) no-repeat center; height:300px;}
+#smallbanner h3{ font-size:40px; color:white; margin:0px;}
+#smallbannertext{width:1200px; margin:0px auto; padding: 50px 0px 0px 0px;}
+#team{width:100%; margin:0px; padding:0px; float:left;}
+#teaminner{width:1200px; margin:0px auto; padding: 50px 0px 0px 0px; text-align:center;}
+#teaminner h2{ font-size:60px;}
+#teaminner ul{list-style: none;padding: 0px ;}
+#teaminner ul li{float: left; padding:0px 15px;}
+#teaminner ul li img{ max-width:270px;}
+#teaminner .teamintro{ background:#f9f9f9; text-align:center;border-bottom: 5px solid blue;margin-top: -5px;padding: 20px 0px;}
+#teaminner .teamintro h3{ margin:0px; }
+#testimonials{width:100%; margin:100px 0px 0px 0px; padding:0px; float:left; background:#00F; height:400px;}
+#innertesti{width:1200px; margin:0px auto; padding: 50px 0px 0px 0px; text-align:center;}
+#innertesti p{color: white;font-style: italic;font-size: 25px;}
+#innertesti .far{color: white;font-size: 60px;}
+#innertesti hr{border: 1px solid white;width: 200px;}
+#innertesti img.circle{border-radius: 50%;}
+#innertesti #clientname{ width:500px; margin: 0 auto;}
+#clientname ul{list-style: none;padding: 0px ;}
+#clientname ul li{float: left; padding:0px 15px;}
+#clientname ul li h3{margin: 0px;color: white;padding: 20px 0px 0px 0px;}
+#clientname ul li p.clientpos{font-style: normal;text-align: left;margin: 5px 0px 0px 0px;font-size: 13px;}
+#clientname ul.ratings{list-style: none;padding: 0px ; float:right}
+#clientname ul.ratings li{float: left; padding: 0px 2px;}
+#clientname ul.ratings .fas{color: yellow;}
+#pricing{ width:100%;margin:0px; padding:0px; float:left;}
+#innerpricing{width:1200px; margin:0px auto;text-align:center; padding: 50px 0px 0px 0px;}
+#innerpricing h2{ font-size:60px;}
+#innerpricing ul{list-style: none;padding: 0px ;margin: 0px 50px;}
+#innerpricing ul li{float: left;width: 320px;border: 1px solid #ccc;}
+#innerpricing ul li p{border-top: 1px solid #e9e9e9;padding: 15px 0px 0px 0px;}
+span.btn3 a{background: white;border: 3px solid blue;padding: 20px 60px;border-radius: 30px;text-transform: uppercase;}
+span.btn3 a{ color: #06C; text-decoration:none}
+span.btn3 a:hover{ background:blue; color:white;}
+.button3{border-top: 1px solid #ccc;padding: 40px 0px;}
+#innerpricing h3{color: blue;font-size: 35px;margin: 0px;padding: 20px 0px 0px 0px;}
+span.dollars{font-size: 12px;color: blue;}
+#calltoaction{width:100%;margin:70px 0px 0px 0px; padding:0px; float:left; background:#333}
+#calltoaccont{width:1200px; margin:0px auto;}
+.inlineli ul{list-style: none;padding: 0px ;margin: 0px;}
+.inlineli ul li{float: left; padding: 40px 0px;margin-left: 50px;}
+#calltoaction h3{margin: 0px;padding: 20px 0px;font-size: 35px;color: #ccc;}
+span.btn4{background: #3a6ee8;font-size: 14px;font-weight: normal;padding: 20px 60px;border: 1px solid #3a6ee8;border-radius: 30px;text-transform: uppercase;float: right;margin-top: 10px;}
+span.btn4 a{text-decoration: none;color: white;}
+#news{width:100%;margin:0px; padding:0px 0px 100px 0px; float:left; background:#f6f7fa;} 
+#newscontent{width:1200px; margin:0px auto; }
+.textcenter{text-align:center}
+#newscontent h2{font-size:60px;}
+#newscontent ul{list-style: none;padding: 0px ;}
+#newscontent ul li{ float:left; width:30%}
+#newscontent ul li:nth-child(2){padding:0 5%;}
+#newscontent li img{ max-width:360px;}
+.newstext{ background:#fff;margin-top: -5px;padding: 20px;}
+.newstext h3{ margin:0px;}
+.newstext a{ color:#3A6EE8; text-decoration:none; text-transform:uppercase;}
+#clients{width:100%;margin:0px; padding:100px 0px; float:left;}
+#innerclients{width:1200px; margin:0px auto;}
+.sideli ul{list-style: none;padding: 0px ;margin: 0px;}
+.sideli ul li{float: left;}
+#innerclients li:nth-child(even){ margin:0px 30px;}
+#innerclients li:last-child{ margin-right:0px!important;}
+#innerclients li{ border:1px solid #ccc;}
+#footer{width:100%;margin:0px; padding:80px 0px; float:left; background:#333;}
+#innerfooter{width:1200px; margin:0px auto;}
+#innerfooter .fab{color: #ccc;border: 1px solid #ccc;padding: 10px 15px;}
+#innerfooter ul li{ width:280px; padding:10px;}
+#servicelist i{color:#3A6EE8;}
+#servicelist a{ color:#858585; text-decoration:none;font-family: 'Ubuntu', sans-serif;font-weight: normal;}
+#innerfooter h2{font-size: 40px;margin: 25px 0px 0px 0px;color: white;}
+#innerfooter h3{ font-size:30px;color: white;}
+p.thumb{ color:white; font-weight:bold;padding: 5px 0px;}
+.thumb img{ padding-right: 10px;width: 90px;}
+.thumb span{ color:blue;}
+.blueicon i{ color:blue;}
